@@ -1,6 +1,7 @@
 # Zoe Depth Estimation
 
-A brief description of what this project does and who it's for
+Python API project that returns a depth map of an image
+[Project Course](https://superpeer.com/cobanov/collection/python) 
 
 ## Usage/Examples
 
